@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhay113
 - 👀 I’m interested in cricket
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning full stack devlopment
 
 <!---
 abhay113/abhay113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
